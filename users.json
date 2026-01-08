@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Catarina",
+      "email": "cat2453@gmail.com",
+      "password": "02365"
+    },
+    {
+      "id": "3",
+      "name": "Joana",
+      "email": "joanamad123@gmail.com",
+      "password": "1235286"
+    },
+    {
+      "id": "b194",
+      "name": "José",
+      "email": "josnamad123@gmail.com",
+      "password": "121236"
+    },
+    {
+      "id": 1761734392975,
+      "name": "kheirour",
+      "email": "kheirour4182@gmail.com",
+      "password": "Dani2302"
+    },
+    {
+      "id": 1761735565564,
+      "name": "Daniela",
+      "email": "danielamadu2302@gmail.com",
+      "password": "Dani1234"
+    }
+  ]
+}
