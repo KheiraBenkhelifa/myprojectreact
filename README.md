@@ -18,8 +18,8 @@ Trata-se de um website completo criado com React.js, com foco na estrutura, clar
 - CSS
 
 ## 🔗 Acesso ao Projeto
-- Site online: https://kheirabenkhelifa.github.io/code-way-academy/
-- Repositório GitHub: https://github.com/KheiraBenkhelifa/code-way-academy
+- Site online: https://kheirabenkhelifa.github.io/myprojectreact/
+- Repositório GitHub: https://github.com/KheiraBenkhelifa/myprojectreact
 
 ## Como Executar Localmente
 1. Clonar o repositório  
