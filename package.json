@@ -1,9 +1,9 @@
 {
-  "name": "my-react-app",
+  "name": "code-way-academy",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KheiraBenkhelifa.github.io/myprojectreact",
+  "homepage": "https://KheiraBenkhelifa.github.io/code-way-academy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
